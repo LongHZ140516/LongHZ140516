@@ -19,7 +19,7 @@
 
 <div style="display: flex; justify-content: center;">
   <div style="margin-right: 20px; border-right: 0px solid #ccc; padding-right: 20px;">
-    <h3> <img src="assets/JF/JF1.jpg" alt="me" style="margin-right: 5px;height: 40px; margin">About me</h3>
+    <h3> <img src="assets/JF/JF1.jpg" alt="me" style="margin-right: 5px;height: 40px; margin"> About me</h3>
     <p>
       <li> 🎓 A Grade 2020 GST Student in SYSU. Currently a graduate student at SYSU.
       <li> ⚡ Interested in 3D reconstruction / generation, game development, front-end development.
@@ -38,16 +38,14 @@
   </div>
   <div style="margin-right: 20px; border-right: 0px solid #ccc; padding-right: 20px;">
     <img src="assets/JF/JF0.jpg" alt="Profile Picture" height="200px" />
-    <a href="https://netease-recent-profile.vercel.app/?id=126764012&theme=card&themeColor=399DF4&size=300&mode=light">
-      <img src="https://netease-recent-profile.vercel.app/?id=126764012&theme=card&themeColor=399DF4&size=300&mode=light" alt="Netease recently played" style="margin-left:-35px">
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=LongHZ140516&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" style="margin-left: 40px">
   </div>
 </div>
 
 ---
 <div style="position: relative;">
   <h3 style="position: relative; margin-bottom: 10px;">
-    <img src="assets/JF/JF2.jpg" alt="me" style="margin-right: 10px; height: 40px;">About Working
+    <img src="assets/JF/JF2.jpg" alt="me" style="margin-right: 10px; height: 40px;"> About Working
   </h3>
   <div style="display: flex; justify-content: center;">
     <div style="margin-right: 20px; border-right: 3px solid #ccc; padding-right: 20px;">
@@ -75,9 +73,3 @@
     </div>
   </div>
 </div>
-
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-    <div style="margin-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=LongHZ140516&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
-    </div>
-  </div>
