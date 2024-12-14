@@ -1,7 +1,9 @@
 <!-- # 👋 Hi there, I'm Serein (Zilong Huang) <img src="assets/kana/kana0.png" alt="hi" style="height: 60px;"> -->
 <div style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=👋 Hi there, I'm Serein (Zilong Huang)&fontSize=35&animation=fadeIn" />
-  <br>
+  
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=👋 Hi there, I'm Serein (Zilong Huang)&fontSize=35&animation=fadeIn" /> -->
+# 👋 Hi there, I'm Serein (Zilong Huang) <img src="assets/kana/kana0.png" alt="kana" style="height: 60px;margin-right: 5px">
+
   <img src="assets/kana/kana1.png" alt="kana" style="height: 60px;margin-right: 5px">
     <a href="https://github.com/LongHZ140516">
       <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brunobritodev" alt="GitHub badge" />
@@ -36,7 +38,6 @@
   </div>
   <div style="margin-right: 20px; border-right: 0px solid #ccc; padding-right: 20px;">
     <img src="assets/JF/JF0.jpg" alt="Profile Picture" height="200px" />
-    <br>
     <a href="https://netease-recent-profile.vercel.app/?id=126764012&theme=card&themeColor=399DF4&size=300&mode=light">
       <img src="https://netease-recent-profile.vercel.app/?id=126764012&theme=card&themeColor=399DF4&size=300&mode=light" alt="Netease recently played" style="margin-left:-35px">
     </a>
