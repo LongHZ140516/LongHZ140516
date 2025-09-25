@@ -23,6 +23,7 @@
       <li> 🎓 A Grade 2020 GST Student in SYSU. Currently a graduate student at SYSU.
       <li> ⚡ Interested in 3D reconstruction / generation, game development, front-end development.
       <li> 🎮 I am a hardcore anime fan, and I also enjoy playing all kinds of games.
+      <li> 🎶 I listen to a wide range of music genres, and my favorites are R&B and citypop. I’m also a fan of KPOP.
       <li> 🔭 I am learning everything I find interesting.
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
@@ -33,11 +34,12 @@
       <img src="assets/icon/stardewvalley.png" alt="stardewvalley" style="margin-right: 10px; height: 80px">
       <img src="assets/icon/kirby.png" alt="kirby" style="margin-right: 10px; height: 80px">
       <img src="assets/icon/minecraft.png" alt="minecraft" style="margin-right: 10px; height: 80px">
+      <img src="assets/idols/idols.png" alt="My favourite idols" height="200px"/>
     </div>
-    <img src="assets/idols/idols.png" alt="My favourite idols" height="250px"/>
   </div>
   <div style="margin-right: 20px; border-right: 0px solid #ccc; padding-right: 20px;">
     <img src="assets/JF/JF0.png" alt="Profile Picture" height="200px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LongHZ140516&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
   </div>
   
 </div>
@@ -73,12 +75,6 @@
     </div>
   </div>
 </div>
-
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
-    <div style="margin-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=LongHZ140516&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
-    </div>
-  </div>
 
 
 <details open>
