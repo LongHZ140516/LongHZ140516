@@ -1,6 +1,6 @@
 <!-- # 👋 Hi there, I'm Serein (Zilong Huang) <img src="assets/kana/kana0.png" alt="hi" style="height: 60px;"> -->
 <div style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=👋 Hi there, I'm Serein (Zilong Huang)&fontSize=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=👋%20Hi%20there,%20I'm%20Serein%20(Zilong Huang)&fontSize=35&animation=fadeIn" />
   <br>
   <img src="assets/kana/kana1.png" alt="kana" style="height: 60px;margin-right: 5px">
     <a href="https://github.com/LongHZ140516">
@@ -11,13 +11,14 @@
     <a href="https://space.bilibili.com/15318600" target="_blank"><img src="https://img.shields.io/badge/Bilibili-FF5588?style=for-the-badge&logo=bilibili&logoColor=white" target="_blank"></a>
     <a href="https://x.com/HSerein15170" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F8?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
     <img src="assets/chisato/chisato1.png" alt="kana" style="height: 60px;margin-left: 5px">
+    
 </div>
 
 ---
 
 <div style="display: flex; justify-content: center;">
   <div style="margin-right: 20px; border-right: 0px solid #ccc; padding-right: 20px;">
-    <h3> <img src="assets/JF/JF1.jpg" alt="me" style="margin-right: 5px;height: 40px; margin">About me</h3>
+    <h3> <img src="assets/JF/JF1.png" alt="me" style="margin-right: 5px;height: 40px; margin">About me</h3>
     <p>
       <li> 🎓 A Grade 2020 GST Student in SYSU. Currently a graduate student at SYSU.
       <li> ⚡ Interested in 3D reconstruction / generation, game development, front-end development.
@@ -33,20 +34,18 @@
       <img src="assets/icon/kirby.png" alt="kirby" style="margin-right: 10px; height: 80px">
       <img src="assets/icon/minecraft.png" alt="minecraft" style="margin-right: 10px; height: 80px">
     </div>
+    <img src="assets/idols/idols.png" alt="Profile Picture" />
   </div>
   <div style="margin-right: 20px; border-right: 0px solid #ccc; padding-right: 20px;">
-    <img src="assets/JF/JF0.jpg" alt="Profile Picture" height="200px" />
-    <br>
-    <a href="https://netease-recent-profile.vercel.app/?id=126764012&theme=card&themeColor=399DF4&size=300&mode=light">
-      <img src="https://netease-recent-profile.vercel.app/?id=126764012&theme=card&themeColor=399DF4&size=300&mode=light" alt="Netease recently played" style="margin-left:-35px">
-    </a>
+    <img src="assets/JF/JF0.png" alt="Profile Picture" height="200px" />
   </div>
+  
 </div>
 
 ---
 <div style="position: relative;">
   <h3 style="position: relative; margin-bottom: 10px;">
-    <img src="assets/JF/JF2.jpg" alt="me" style="margin-right: 10px; height: 40px;">About Working
+    <img src="assets/JF/JF2.png" alt="me" style="margin-right: 10px; height: 40px;">About Working
   </h3>
   <div style="display: flex; justify-content: center;">
     <div style="margin-right: 20px; border-right: 3px solid #ccc; padding-right: 20px;">
@@ -80,3 +79,16 @@
       <img src="https://github-readme-stats.vercel.app/api?username=LongHZ140516&show_icons=true&theme=transparent" alt="Anurag's GitHub stats">
     </div>
   </div>
+
+
+<details open>
+ <summary> 📝 <b>Recent Blogs</b>: </summary>
+<br>
+    <a target="_blank" href="https://serein-six.vercel.app/blog/python-language-server"><img src="assets/blog/blog0.png" alt="Recent Article 0"></a>
+  <br>
+    <a target="_blank" href="https://serein-six.vercel.app/blog/markdown-menu"><img src="assets/blog/blog1.png" alt="Recent Article 1"></a>
+  <br>
+    <a target="_blank" href="https://serein-six.vercel.app/blog/load-model-from-comfyui-diffusers"><img src="assets/blog/blog2.png" alt="Recent Article 2"></a>
+  <br>
+
+</details>
