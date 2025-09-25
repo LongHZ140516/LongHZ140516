@@ -1,6 +1,6 @@
 <!-- # 👋 Hi there, I'm Serein (Zilong Huang) <img src="assets/kana/kana0.png" alt="hi" style="height: 60px;"> -->
 <div style="text-align: center;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=👋%20Hi%20there,%20I'm%20Serein%20(Zilong Huang)&fontSize=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=👋%20Hi%20there,%20I'm%20Serein%20(Zilong%20Huang)&fontSize=35&animation=fadeIn" />
   <br>
   <img src="assets/kana/kana1.png" alt="kana" style="height: 60px;margin-right: 5px">
     <a href="https://github.com/LongHZ140516">
@@ -34,7 +34,7 @@
       <img src="assets/icon/kirby.png" alt="kirby" style="margin-right: 10px; height: 80px">
       <img src="assets/icon/minecraft.png" alt="minecraft" style="margin-right: 10px; height: 80px">
     </div>
-    <img src="assets/idols/idols.png" alt="Profile Picture" />
+    <img src="assets/idols/idols.png" alt="My favourite idols" height="250px"/>
   </div>
   <div style="margin-right: 20px; border-right: 0px solid #ccc; padding-right: 20px;">
     <img src="assets/JF/JF0.png" alt="Profile Picture" height="200px" />
